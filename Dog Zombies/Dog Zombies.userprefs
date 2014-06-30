@@ -1,0 +1,36 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Disparar.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Disparar.cs" Line="22" Column="4" />
+      <File FileName="Assets\Scripts\Empezar.cs" Line="24" Column="3" />
+      <File FileName="Assets\Scripts\EscapeDogZombie.cs" Line="12" Column="2" />
+      <File FileName="Assets\Scripts\EstadoJuego.cs" Line="23" Column="3" />
+      <File FileName="Assets\Scripts\BearGenerator.cs" Line="26" Column="6" />
+      <File FileName="Assets\Scripts\PerroGenerator.cs" Line="38" Column="4" />
+      <File FileName="Assets\Scripts\Comportamiento.cs" Line="87" Column="61" />
+      <File FileName="Assets\Scripts\ZombieGenerator.cs" Line="15" Column="2" />
+      <File FileName="Assets\Scripts\EventosMarcador.cs" Line="49" Column="3" />
+      <File FileName="Assets\Scripts\KangarooGenerator.cs" Line="30" Column="26" />
+      <File FileName="Assets\Scripts\Disparo.cs" Line="23" Column="32" />
+      <File FileName="Assets\Scripts\Rotar.cs" Line="28" Column="2" />
+      <File FileName="Assets\Scripts\Destruir.cs" Line="16" Column="2" />
+      <File FileName="Assets\Scripts\DogGenerator.cs" Line="38" Column="12" />
+      <File FileName="Assets\Scripts\RabbitGenerator.cs" Line="26" Column="4" />
+      <File FileName="Assets\Scripts\BirdGenerator.cs" Line="30" Column="4" />
+      <File FileName="Assets\Scripts\GoatGenerator.cs" Line="24" Column="3" />
+      <File FileName="Assets\Scripts\DuckGenerator.cs" Line="24" Column="3" />
+      <File FileName="Assets\Scripts\FishGenerator.cs" Line="27" Column="49" />
+      <File FileName="Assets\Qualcomm Augmented Reality\Scripts\DefaultTrackableEventHandler.cs" Line="29" Column="83" />
+      <File FileName="Assets\Scripts\ControladorJuego.cs" Line="26" Column="78" />
+      <File FileName="Assets\Scripts\GameOver.cs" Line="25" Column="50" />
+      <File FileName="Assets\Scripts\Escapar.cs" Line="25" Column="61" />
+      <File FileName="Assets\Scripts\CargarHighscore.cs" Line="12" Column="3" />
+      <File FileName="Assets\Scripts\BotonAtras.cs" Line="21" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
